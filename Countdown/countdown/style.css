@@ -1,0 +1,28 @@
+*,
+:before:after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: salmon;
+  margin: 0 auto;
+}
+
+span {
+  position: relative;
+  left: 50rem;
+  top: 80px;
+  display: inline-block;
+  border: solid black 5px;
+  color: whitesmoke;
+  font-size: 50px;
+}
+
+#btn {
+  position: relative;
+  left: 50rem;
+  top: 80px;
+
+  border: solid black 5px;
+  font-size: 48px;
+}
